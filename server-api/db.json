@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "e2a5b680-166e-408b-a9cb-8d9c687dc690",
+      "name": "Ziyan ",
+      "email": "abvp@gmail.com"
+    },
+    {
+      "id": "d0a4718c-cfdd-4e12-b401-bdca2561db9e",
+      "name": "Muhammed Nihal ",
+      "email": "mnihalap@gmail.com"
+    },
+    {
+      "id": "61b2c4e3-d245-4728-8492-bd369d96e6e2",
+      "name": "Jason",
+      "email": "jasonjas@gmail.com"
+    },
+    {
+      "id": "cea01264-eaa7-435b-a576-ef60760962df",
+      "name": "Zayan",
+      "email": "zayan@gmail.com"
+    },
+    {
+      "id": "25bee40d-1537-45ef-990b-01c4f53fad53",
+      "name": "nabeel nazir",
+      "email": "nabeelnazir@gmail.com"
+    }
+  ]
+}
